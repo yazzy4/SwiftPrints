@@ -1,1 +1,3 @@
 # SwiftPrints
+
+Making debugging better one print statement at a time...
