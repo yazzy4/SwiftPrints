@@ -16,3 +16,7 @@ enum LogDateFormatter: String {
     case MMM_d_HH_mm_ss_SSSZ
 
 }
+
+struct LogOptions {
+    
+}
